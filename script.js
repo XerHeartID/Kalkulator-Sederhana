@@ -58,7 +58,7 @@ else if (operator == "**"){
     }
 }
 else{
-    alert("Operator Tidak Valid");
+    alert("Masukan Tidak Valid. Mohon Isi Dengan Benar.");
 }
 
 // function tambah(){
