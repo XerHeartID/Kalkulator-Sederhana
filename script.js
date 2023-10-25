@@ -1,6 +1,6 @@
 var n1 = Number(prompt("Masukkan Angka Pertama"));
 var operator = prompt("Masukkan Operator");
-var n2 = Number(prompt("Masukkan Angka Pertama"));
+var n2 = Number(prompt("Masukkan Angka Kedua"));
 
 var hasil;
 if (operator == "+"){
